@@ -1,3 +1,5 @@
+# VRV-Security-s-Python-Intern-Assignment
+
 # Log Analysis System
 
 ## Overview
@@ -35,7 +37,7 @@ The system generates three types of analysis:
 1. **Get the Code**:
    ```
    # Option 1: Clone with Git
-   git clone https://github.com/Shreyas156/
+   git clone :- https://github.com/Shreyas156/VRV-Security-s-Python-Intern-Assignment.git
    cd log-analysis-system
 
    # Option 2: Download ZIP
@@ -61,7 +63,7 @@ The system generates three types of analysis:
    python log_analysis.py
    ```
 3. The script (`log_analysis.py`) processes the log file and performs:
-   - Request frequency analysis
+4. - Request frequency analysis
    - Endpoint usage tracking
    - Security threat detection
 
@@ -74,5 +76,5 @@ The system generates three types of analysis:
    - Suitable for further data processing or spreadsheet analysis
 
 3. **Terminal Output**:
-   - Immediate results displayed in console
-   - Quick overview of key metrics
+   - Immediate results displayed on Web Page(using live server)
+   - <img width="1680" alt="image" src="https://github.com/user-attachments/assets/132ed5e9-cfb2-414f-8b2b-4b3932f9cd59">

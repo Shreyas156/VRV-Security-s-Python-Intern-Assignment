@@ -76,6 +76,5 @@ The system generates three types of analysis:
    - Suitable for further data processing or spreadsheet analysis
 
 3. **Terminal Output**:
-   - Immediate results displayed in console
+   - Immediate results displayed on Web Page(using live server)
    - <img width="1680" alt="image" src="https://github.com/user-attachments/assets/132ed5e9-cfb2-414f-8b2b-4b3932f9cd59">
-   - Quick overview of key metrics

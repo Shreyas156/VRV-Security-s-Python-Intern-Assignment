@@ -63,7 +63,7 @@ The system generates three types of analysis:
    python log_analysis.py
    ```
 3. The script (`log_analysis.py`) processes the log file and performs:
-   - Request frequency analysis
+4. - Request frequency analysis
    - Endpoint usage tracking
    - Security threat detection
 
@@ -77,4 +77,5 @@ The system generates three types of analysis:
 
 3. **Terminal Output**:
    - Immediate results displayed in console
+   - <img width="1680" alt="image" src="https://github.com/user-attachments/assets/132ed5e9-cfb2-414f-8b2b-4b3932f9cd59">
    - Quick overview of key metrics
